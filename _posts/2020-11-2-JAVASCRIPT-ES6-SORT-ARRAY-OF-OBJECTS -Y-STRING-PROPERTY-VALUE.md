@@ -3,7 +3,7 @@ layout: post
 title: JAVASCRIPT SORT ARRAY OF OBJECTS BY STRING PROPERTY VALUE
 ---
 
-``` javascript
+
 /**
  * 👽 Author: https://www.linkedin.com/in/sifat-haque/
  * ✅ Task: Sort array of objects by string property value
@@ -27,4 +27,4 @@ const characters = [
 characters.sort((a, b) => a.name.localeCompare(b.name));
 
 console.log(characters)
-```
+
