@@ -4,23 +4,19 @@ title: JAVASCRIPT SORT ARRAY OF OBJECTS BY STRING PROPERTY VALUE
 ---
 
 
- ```
- * 👽 Author: https://www.linkedin.com/in/sifat-haque/
- * ✅ Task: Sort array of objects by string property value
-
-
+ ``` javasctipt
 const characters = [
   {
-    name: "Levi",
-    animeName: "Attack On Titan",
+    name: "A",
+    content: "A content",
   },
   {
-    name: "Edward Elric",
-    animeName: "Fullmetal Alchemist",
+    name: "C",
+    content: "C content",
   },
   {
-    name: "Ichigo Kurosaki",
-    animeName: "Bleach",
+    name: "D",
+    content: "D content",
   },
 ];
 
