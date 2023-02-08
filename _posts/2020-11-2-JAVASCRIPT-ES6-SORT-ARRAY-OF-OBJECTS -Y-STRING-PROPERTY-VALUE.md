@@ -1,6 +1,7 @@
 ---
 layout: post
 title: JAVASCRIPT SORT ARRAY OF OBJECTS BY STRING PROPERTY VALUE
+date: 2020-06-18 12:00:00
 ---
 
 
