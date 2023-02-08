@@ -4,8 +4,6 @@ title: Participating in Scrum Ceremonies
 date: 2023-02-08 12:00:00
 ---
 
-# Participating in Scrum Ceremonies
-
 The sprint planning meeting is an essential part of the Agile software development process. It is a time for the development team to come together and plan out the tasks that need to be accomplished during the upcoming sprint. The meeting is critical to the success of the sprint as it sets the direction and expectations for the team.
 
 There are several techniques that I use to evaluate task difficulty and make sure that we are accurately estimating the time needed to complete a task. Here are a few of the most common techniques:
