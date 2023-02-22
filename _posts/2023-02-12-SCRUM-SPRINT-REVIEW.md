@@ -15,4 +15,6 @@ The Sprint Review is typically a time-boxed meeting and should last no longer th
 - Review of the Product Backlog: The Product Owner reviews the product backlog and updates it based on the feedback received from the stakeholders during the Sprint Review.
 - Planning for the Next Sprint: The Scrum Team discusses the next sprint and begins the planning process.
 
-It's important to note that the Sprint Review is not a status meeting or a planning meeting. It's a time for the Scrum Team to showcase the work they've done, gather feedback, and adjust the product backlog for the next sprint. By following the structure of the Sprint Review, the Scrum Team can ensure that they're meeting their goals and continuously improving their product.
+It's important to note that the Sprint Review is not a status meeting or a planning meeting. 
+It's a time for the Scrum Team to showcase the work they've done, gather feedback, and adjust the product backlog for the next sprint. 
+By following the structure of the Sprint Review, the Scrum Team can ensure that they're meeting their goals and continuously improving their product.
