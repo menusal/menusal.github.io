@@ -13,7 +13,7 @@
 title: Dani Arlandis
 
 # Your name to show in the footer
-author: Some Person
+author: Dani Arlandis
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -46,13 +46,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "daniarlandis@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  github: menusal
+  twitter: menusal
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -91,7 +88,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://menusal.github.io/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -122,15 +119,15 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#F1C40F"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+footer-col: "#F39C12"
+footer-text-col: "#333333"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
