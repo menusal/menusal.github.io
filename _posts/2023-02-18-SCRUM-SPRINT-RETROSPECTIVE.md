@@ -156,5 +156,3 @@ At the end of a sprint retrospective meeting, team members could be given Apprec
 8. Encourage the team members to thank each other and to share their own positive experiences during the sprint.
 
 By using Appreciation Cards, the team can foster a positive and supportive environment, build trust and collaboration, and boost morale and motivation. It can also help team members to recognize and value each other's strengths and contributions, leading to a more effective and enjoyable work experience.
-
-
