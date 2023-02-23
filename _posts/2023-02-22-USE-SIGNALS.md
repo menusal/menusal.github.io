@@ -4,14 +4,19 @@ title: useSignal vs useState
 date: 2023-02-22 12:00:00
 ---
 
-The main difference between using **@preact/signals-react** and **useState** is in how the state updates are managed. With **@preact/signals-react**, the state is managed using signals and observables, which allows for more granular control over state updates and can help to reduce unnecessary re-renders. With **useState**, the state is managed using local state within the component, which can be simpler to use but may lead to more re-renders if the state updates frequently.
-Overall, both approaches can be effective for managing state in a Preact component, and the choice between them may depend on the specific needs of your application.
+The main difference between using **@preact/signals-react** and **useState** is in how the state updates are managed. 
+
+With **@preact/signals-react**, the state is managed using signals and observables, which allows for more granular control over state updates and can help to reduce unnecessary re-renders. 
+
+With **useState**, the state is managed using local state within the component, which can be simpler to use but may lead to more re-renders if the state updates frequently.
+
+Overall, both approaches can be effective for managing state in a React component, and the choice between them may depend on the specific needs of your application.
 
 ## Benefits of signals
 
 ### Improved performance
 
-**@preact/signals-react** leverages a signal-based architecture to manage state, which can help to reduce unnecessary re-renders and improve the performance of your Preact application. Signals only trigger re-renders when their values change, which can help to optimize the rendering process.
+**@preact/signals-react** leverages a signal-based architecture to manage state, which can help to reduce unnecessary re-renders and improve the performance of your React application. Signals only trigger re-renders when their values change, which can help to optimize the rendering process.
 
 ### Improved modularity: 
 
@@ -25,7 +30,7 @@ Separating your state management code from your component code can make your cod
 
 As your application grows in size and complexity, managing state with **useState** can become more difficult and error-prone. **@preact/signals-react** can provide a more scalable solution for managing state, especially in applications with a large number of components or complex state dependencies.
 
-In this example, we define two Preact components: Counter and CounterWithState. Counter uses useSignal to get the current count value from the countSignal and a setter function to update the count. 
+In this example, we define two React components: Counter and CounterWithState. Counter uses useSignal to get the current count value from the countSignal and a setter function to update the count. 
 CounterWithState uses the **useState** hook to define the current count value and a setter function to update the count.
 Both components render a button element that displays the current count value and has a click handler that updates the count.
 
@@ -61,7 +66,7 @@ import { useSignal } from '@preact/signals-react';
 // Define a signal for the current count value
 const [countSignal, setCountSignal] = createSignal(0);
 
-// Define a Preact component that uses the countSignal
+// Define a React component that uses the countSignal
 const CounterWithSignal = () => {
   // Use the countSignal to get the current count value and a setter function
   const [count, setCount] = useSignal(countSignal);
@@ -78,4 +83,4 @@ const CounterWithSignal = () => {
 
 ## Conclusion
 
-It's worth noting that there may be some cases where using **useState** is still the best option, such as for simple state management or for cases where performance is not a concern. However, in general, using **@preact/signals-react** can provide a more robust and scalable solution for managing state in Preact or React applications.
+It's worth noting that there may be some cases where using **useState** is still the best option, such as for simple state management or for cases where performance is not a concern. However, in general, using **@preact/signals-react** can provide a more robust and scalable solution for managing state in React or React applications.
