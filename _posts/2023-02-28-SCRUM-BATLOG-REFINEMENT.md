@@ -3,7 +3,6 @@ layout: post
 title: Techniques for Sprint/Backlog Refinement
 date: 2023-02-28 12:00:00
 ---
-
 Using these techniques, teams can ensure that the sprint backlog is well-defined and prioritized, which can help to improve the quality and efficiency of the development process.
 
 1. **User story mapping**: This technique helps to visualize the user's journey through the product, which can then be used to identify the most important features to add to the backlog. It can also help to identify dependencies and gaps in the product's functionality.
