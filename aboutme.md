@@ -8,7 +8,7 @@ I am a seasoned software developer with over 15 years of experience in the field
 
 Before my current role, I co-founded Wiber Rent a Car and worked as a full-stack developer there for four years. I have also worked as a web developer at RecordGo and as a senior analyst programmer at Omnium Strategic Intelligence SL.
 
-I am based in Madrid, Spain, and hold a Bachelor's degree in Computer Science from the Polytechnic University of Valencia. My strong background in software development is particularly in the areas of front-end development, user interface design, and web application development.
+I am based in Spain, and my strong background in software development is particularly in the areas of front-end development, user interface design, and web application development.
 
 ### Contact me
 
