@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding SOLID Principles in ReactJS Development
-date: 2023-05-07 12:00:00
+date: 2024-06-16 12:00:00
 ---
 # Understanding SOLID Principles in ReactJS Development
 
