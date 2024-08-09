@@ -1,3 +1,8 @@
+---
+layout: post
+title: Guía de Principios de Ingeniería de Software y Código Limpio
+date: 2024-08-08 12:00:00
+---
 # Guía de Principios de Ingeniería de Software y Código Limpio
 
 ## 1. KISS (Keep It Simple, Stupid)
