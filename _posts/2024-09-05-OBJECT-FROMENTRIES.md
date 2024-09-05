@@ -68,7 +68,7 @@ function App() {
     Example output:
     {
       name: 'John Doe',
-      email: '
+      email: 'john.doe@demo.com',
       age: 30
     }
     */
