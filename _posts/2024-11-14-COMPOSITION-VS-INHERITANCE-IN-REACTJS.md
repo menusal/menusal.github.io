@@ -146,4 +146,5 @@ React strongly advocates for Composition over Inheritance to build reusable, iso
 - Favoring composition results in components that are easier to read, understand, and maintain.
 - By understanding these patterns, you’ll be able to design more scalable and maintainable React applications.
 
+
 Happy coding! 🎉
