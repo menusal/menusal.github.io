@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Understanding Object.fromEntries() in JavaScript: A Practical Guide with React
+title: Understanding Object.fromEntries() in JavaScript. A Practical Guide with React
 date: 2024-09-05 08:00:00
 ---
-# Understanding `Object.fromEntries()` in JavaScript: A Practical Guide with React
+# Understanding Object.fromEntries() in JavaScript. A Practical Guide with React
 
 JavaScript has introduced many helpful methods over the years to make coding more efficient, and one such method is `Object.fromEntries()`. This powerful tool can transform a list of key-value pairs into an object, which can be particularly handy in web development. In this blog post, we'll explore what `Object.fromEntries()` does, how it works, and provide a practical example using ReactJS to handle form submissions.
 
