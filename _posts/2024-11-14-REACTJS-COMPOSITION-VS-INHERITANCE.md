@@ -3,7 +3,6 @@ layout: post
 title: Composition vs. Inheritance in React with TypeScript: Understanding the Differences
 date: 2024-11-14 09:00:00
 ---
-# Composition vs. Inheritance in React with TypeScript: Understanding the Differences
 
 In React, developers often use **Composition** and **Inheritance** to organize and reuse code, especially in building complex UIs. React’s component-based structure makes **Composition** the preferred method for creating reusable and maintainable components, while **Inheritance** is generally used sparingly. In this article, we’ll explain the differences between Composition and Inheritance in React and show examples in TypeScript.
 
