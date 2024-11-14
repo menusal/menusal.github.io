@@ -120,6 +120,7 @@ const IconButton: React.FC<IconButtonProps> = ({ icon, label, onClick }) => (
 
 export default IconButton;
 ```
+
 In this example, IconButton uses composition to include an icon within Button, making it more flexible without modifying the Button component directly.
 
 ## When to Use Composition vs. Inheritance in React
@@ -140,7 +141,9 @@ React strongly advocates for Composition over Inheritance to build reusable, iso
 
 ### Key Points
 
-- **Composition enables flexible component structures, making it ideal for UI development in React.**
-- **Inheritance is less common and generally avoided in React, as it leads to tighter coupling and reduced reusability.**
-- **Favoring composition results in components that are easier to read, understand, and maintain.**
-- **By understanding these patterns, you’ll be able to design more scalable and maintainable React applications.**
+- Composition enables flexible component structures, making it ideal for UI development in React.
+- Inheritance is less common and generally avoided in React, as it leads to tighter coupling and reduced reusability.
+- Favoring composition results in components that are easier to read, understand, and maintain.
+- By understanding these patterns, you’ll be able to design more scalable and maintainable React applications.
+
+Happy coding! 🎉
